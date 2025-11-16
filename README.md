@@ -54,7 +54,6 @@ flashcard-generator/
 │
 ├── backend/                  # Express backend
 │   ├── server.js            # API server with retry logic
-│   ├── list-models.js       # Utility to list available AI models
 │   ├── .env                 # Environment variables (not in git)
 │   ├── .env.example         # Environment template
 │   └── package.json         # Backend dependencies
